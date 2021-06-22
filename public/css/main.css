@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+}
+
+
+
+.backgound{background-image:url("../images/background_nutrify.jpg");
+                background-repeat: no-repeat;
+                background-position: bottom;
+                background-size: 500%;
+                height:fullscreen;
+                width: fullscreen
+            }
